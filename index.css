@@ -1,0 +1,49 @@
+/* Fill CSS here */
+
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #2961A3;
+}
+div{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+form{
+    margin-left: 10px;
+    padding-left:30px ;
+    padding-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 20%;
+}
+input{
+    width: 200px;
+    height: 21px;
+}
+select{
+    width: 210px;
+    height: 30px;
+}
+table{
+    width: 70%;
+    margin-left: 45px;
+}
+th{
+    padding: 10px;
+    background-color: #0068AF;
+    color: white;
+}
+tbody{
+    height: 20px;
+    border: 2px solid black;
+}
+td{
+    color: #0068AF;
+}
